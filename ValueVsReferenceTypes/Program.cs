@@ -10,6 +10,8 @@ namespace ValueVsReferenceTypes
 	{
 		static void Main(string[] args)
 		{
+            //simulating a change
+
 
 			FractionRef fraction1 = new FractionRef()
 			{
